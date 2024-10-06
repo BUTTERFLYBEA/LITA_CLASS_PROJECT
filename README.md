@@ -25,7 +25,7 @@ Here is an elaborate definition:
 - Excel add-ins e.g
   1. Power Query
   2. Power Pivot
-- Third party data entry software (eg, Data Entry Software,Excel Data Entry).
+- Third party data entry software e.g
   1. Data Entry Software
   2. Excel Data Entry
 
