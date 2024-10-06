@@ -4,8 +4,10 @@ as LADIES IN TECH AFRICA (LITA)
 ---
 # LITA_CLASS_PROJECT
 ---
-### PROJECT OVERVIEW:DATA ENTRY IN EXCEL
+### PROJECT TITTLE: DATA ENTRY IN EXCEL
 ---
+### PROJECT OVERVIEW:
+
 Data entry in Excel refers to the process of inputting,editing,and managing data within a spreadsheet.
 Data Entry can also be seen as the processing of manually inputting information into computer system or
 database using various data entry tools,software,and techniques.
@@ -31,7 +33,7 @@ Here is an elaborate definition:
 ---
 - Spreadsheet..
 1. microsoft Excel [Download Here](https://www.microsoft.com)
-2. Google Sheets [Download Here](https://www.googlesheets.com)
+2. Google Sheets
 - Database Management Systems..
   1. MySQL [Download Here](https://www.mysql.com)
   2. Oracle [Download Here](https://www.oracle.com)
