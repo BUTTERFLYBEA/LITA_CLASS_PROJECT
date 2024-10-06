@@ -30,10 +30,10 @@ Here is an elaborate definition:
 ### DATA ENTRY APPLICATIONS:
 ---
 - Spreadsheet..
-1. microsoft Excel [Download Here]
-2. Google Sheets [Download Here]
+1. microsoft Excel [Download Here](https://www.microsoft.com)
+2. Google Sheets [Download Here](https://www.googlesheets.com)
 - Database Management Systems..
-  1. MySQL [Download Here]
+  1. MySQL [Download Here](https://www.mysql.com)
   2. Oracle.
 - Customer Relationship Management(CRM)software.
 - Enterprise Resource Planning (ERP)Systems.
