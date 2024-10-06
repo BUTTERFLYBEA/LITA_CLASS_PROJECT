@@ -9,7 +9,7 @@ as LADIES IN TECH AFRICA (LITA)
 ### PROJECT OVERVIEW:
 
 Data entry in Excel refers to the process of inputting,editing,and managing data within a spreadsheet.
-Data Entry can also be seen as the processing of manually inputting information into computer system or
+Data Entry can also be seen as the process of manually inputting information into computer system or
 database using various data entry tools,software,and techniques.
 Here is an elaborate definition:
 
