@@ -34,7 +34,7 @@ Here is an elaborate definition:
 2. Google Sheets [Download Here](https://www.googlesheets.com)
 - Database Management Systems..
   1. MySQL [Download Here](https://www.mysql.com)
-  2. Oracle.
+  2. Oracle [Download Here](https://www.oracle.com)
 - Customer Relationship Management(CRM)software.
 - Enterprise Resource Planning (ERP)Systems.
 - Online data entry platforms and tools.
