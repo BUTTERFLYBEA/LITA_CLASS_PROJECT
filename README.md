@@ -1,6 +1,8 @@
 # INTRODUCTION:
 My name is precious and i'm a student currently learning Data Analysis with the Incubator Hub also known 
 as LADIES IN TECH AFRICA (LITA)
+My goal is to transform data into actionable insights| Web development enthusiast|
+Passionate about harnessing data to fuel business success.
 ---
 # LITA_CLASS_PROJECT
 ---
