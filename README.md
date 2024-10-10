@@ -9,12 +9,12 @@ Passionate about harnessing data to fuel business success.
 ---
 ### PROJECT TITTLE: DATA ENTRY IN EXCEL
 ---
-- Project overview
-- Types of Data Analysis
-- Data Entry Tools
-- Data Entry Applications
-- Data Entry Techniques
-- Data Entry Process
+- [Project overview](#project-overview)
+- [Types of Data Analysis](#types-of-data-analysis)
+- [Data Entry Tools](#data-entry-tools)
+- [Data Entry Applications](#data-entry-applications)
+- [Data Entry Techniques](#data-entry-techniques)
+- [Data Entry Process](#data-entry-process)
 ---
 ### PROJECT OVERVIEW:
 
