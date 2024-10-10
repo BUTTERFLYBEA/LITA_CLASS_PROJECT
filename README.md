@@ -6,6 +6,13 @@ as LADIES IN TECH AFRICA (LITA)
 ---
 ### PROJECT TITTLE: DATA ENTRY IN EXCEL
 ---
+- Project overview
+- Types of Data Analysis
+- Data Entry Tools
+- Data Entry Applications
+- Data Entry Techniques
+- Data Entry Process
+---
 ### PROJECT OVERVIEW:
 
 Data entry in Excel refers to the process of inputting,editing,and managing data within a spreadsheet.
@@ -59,6 +66,12 @@ Here is an elaborate definition:
 - Data validation:Ensuring data meets specific criteria or formats.
 - Data Entry:Inputting data into the computer system or database.
 - Data Review:Verifying entered data for errors or inconsistencies.
+
+  
+
+  
+
+  
 
 
 
