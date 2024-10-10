@@ -67,6 +67,10 @@ Here is an elaborate definition:
 - Data Entry:Inputting data into the computer system or database.
 - Data Review:Verifying entered data for errors or inconsistencies.
 
+  🥇
+  💻
+  
+
   
 
   
