@@ -1,5 +1,5 @@
 # INTRODUCTION:
-My Name is precious and i'm currently a data analyst,actively undergoing training with the Incubator Hub also known 
+My Name is Precious and I'm currently a data analyst,actively undergoing training with the Incubator Hub also known 
 as LADIES IN TECH AFRICA (LITA). This experience has been helpful in sharpening my skills in Data Analysis,Visualization
 Business Analysis for Discoverability, while exploring the intersection of data,technology and business to create impactful solutions.
 My goal is to transform data into actionable insights| Web development enthusiast|
