@@ -61,14 +61,14 @@ Here is an elaborate definition:
 
 ### DATA ENTRY PROCESS:
 ---
-- Data collection:Gathering information from various sources..
+- Data collection: Gathering information from various sources..
   1. forms
   2. documents
   3. surveys
-- Data verification:Checking data accuracy and completeness.
-- Data validation:Ensuring data meets specific criteria or formats.
-- Data Entry:Inputting data into the computer system or database.
-- Data Review:Verifying entered data for errors or inconsistencies.
+- Data verification: Checking data accuracy and completeness.
+- Data validation: Ensuring data meets specific criteria or formats.
+- Data Entry: Inputting data into the computer system or database.
+- Data Review: Verifying entered data for errors or inconsistencies.
 
   🥇
   💻
